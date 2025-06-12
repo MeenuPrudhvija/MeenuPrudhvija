@@ -11,7 +11,7 @@
 
 - 🎓 I'm a recent graduate in **Computer Science Engineering(Artificial Intelligence and Machine learning)** from **NRI Institute of Technology**
 - 💻 Passionate about **software development**, **problem solving**, and **open source**
-- 🌱 Currently learning: **Java**, **Web Development**, and **Python**
+- 🌱 Currently learning: **Artificial Intelligence**, **Web Development**, and **PowerBi**
 - 🤝 Looking to collaborate on: Beginner-friendly open source projects.
 - 🧠 Interested in: Backend Development, Frontend Development, AI/ML.
 ---
@@ -35,9 +35,9 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🎥 Motion Detection](https://github.com/yourusername/motion-detection) | Detects motion using a webcam and triggers alerts or recording | Python, OpenCV |
-| [🔐 Password Checker](https://github.com/yourusername/password-checker) | Checks password strength and verifies against data breaches | Python, Regex, API (HaveIBeenPwned) |
-| [😴 Driver Drowsiness Detection](https://github.com/yourusername/driver-drowsiness-detection) | Alerts drowsy drivers using facial landmark detection | Python, OpenCV, dlib |
+| [🎥 Motion Detection](https://github.com/MeenuPrudhvija/Motion-Detection) | Detects motion using a webcam and triggers alerts or recording | Python, OpenCV, Html, CSS, Flask |
+| [🔐 Password Checker](https://github.com/MeenuPrudhvija/password_checker) | Checks password strength and verifies against data breaches | Python, Regex, API (HaveIBeenPwned) |
+| [😴 Driver Drowsiness Detection](https://github.com/MeenuPrudhvija/Driver-Drowsiness-Detection) | Alerts drowsy drivers using facial landmark detection | Python, OpenCV, dlib, Html, CSS, JavaScript, Flask |
 
 ---
 
